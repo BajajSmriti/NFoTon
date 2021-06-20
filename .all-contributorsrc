@@ -13,6 +13,7 @@
       "contributions": [
         "code",
         "ideas",
+		"review",
         "mentoring",
         "projectManagement"
       ]
@@ -23,7 +24,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/28742636?v=4",
       "profile": "https://www.linkedin.com/in/danielcunhac/",
       "contributions": [
-        "code"
+        "code",
+        "review"
       ]
     },
     {
@@ -33,7 +35,10 @@
       "profile": "https://github.com/allanneto",
       "contributions": [
         "code",
-        "ideas"
+        "ideas",
+		"review",
+		"mentoring",
+        "projectManagement"
       ]
     },
     {
