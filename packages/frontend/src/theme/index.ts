@@ -26,7 +26,20 @@ export const dark: DefaultTheme = {
     secondaryColor: white['500'],
   },
 }
-const variations = { light, dark }
+
+export const blue: DefaultTheme = {
+  name: 'blue',
+  background: {
+    primary: gray['500'],
+    secondary: colors.neutrals.white['400'],
+    hover: colors.primary.blue,
+  },
+  typography: {
+    color: black['400'],
+    secondaryColor: white['500'],
+  },
+}
+const variations = { light, dark, blue }
 
 export type VariantionType = keyof typeof variations
 
